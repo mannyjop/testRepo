@@ -1,0 +1,7 @@
+A repository is usually used to organize a single project. Repositories can contain folders and files, images, videos, spreadsheets, and data sets – anything your project needs. We recommend including a README, or a file with information about your project. GitHub makes it easy to add one at the same time you create your new repository. It also offers other common options such as a license file.
+•	Most basic element of GitHub
+•	Analogous to directories or file folders on a computer
+•	Contains all of the files for a project and the versions for each file
+•	Can be public or private
+•	Repository under your name (the root repository): called the "master" 
+•	Subrepositories: called "children"
